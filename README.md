@@ -14,5 +14,5 @@ Fonte de dados usada pela app "Registo de Horas & Vencimento" para o salário m�
      - `parcelaFixa`: parcela a abater (quando é um valor fixo)
      - `formula`: só nos escalões "de transição" em que a parcela depende da remuneração — `parcela = taxa × fator × (referencia − remuneração)`. Usar exatamente um de `parcelaFixa` ou `formula` por escalão.
      - `adicional`: parcela adicional a abater, por dependente
-2. Confirmar que o JSON é válido (ex.: colar em [jsonlint.com](https://jsonlint.com)) e fazer commit/push para `main`.
+2. Confirmar que o JSON é válido (ex.: colar em [jsonlint.com](https://jsonlint.com)) e fazer commit/push para `master`.
 3. A app volta a descarregar automaticamente na próxima vez que abrir com internet — não é preciso publicar uma nova versão da app.
