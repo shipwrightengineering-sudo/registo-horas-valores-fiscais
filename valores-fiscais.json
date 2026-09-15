@@ -1,0 +1,48 @@
+{
+  "versao": 1,
+  "atualizadoEm": "2026-01-06",
+  "fonte": "Despacho n.º 233-A/2026, de 6 de janeiro (Diário da República, 2.ª série) — tabelas de retenção na fonte de IRS para 2026, Continente",
+  "smn": 920.00,
+  "tabelaI": [
+    { "ate": 920.00, "taxa": 0.0000, "parcelaFixa": 0, "adicional": 0 },
+    { "ate": 1042.00, "taxa": 0.1250, "formula": { "fator": 2.60, "referencia": 1273.85 }, "adicional": 21.43 },
+    { "ate": 1108.00, "taxa": 0.1570, "formula": { "fator": 1.35, "referencia": 1554.83 }, "adicional": 21.43 },
+    { "ate": 1154.00, "taxa": 0.1570, "parcelaFixa": 94.71, "adicional": 21.43 },
+    { "ate": 1212.00, "taxa": 0.2120, "parcelaFixa": 158.18, "adicional": 21.43 },
+    { "ate": 1819.00, "taxa": 0.2410, "parcelaFixa": 193.33, "adicional": 21.43 },
+    { "ate": 2119.00, "taxa": 0.3110, "parcelaFixa": 320.66, "adicional": 21.43 },
+    { "ate": 2499.00, "taxa": 0.3490, "parcelaFixa": 401.19, "adicional": 21.43 },
+    { "ate": 3305.00, "taxa": 0.3836, "parcelaFixa": 487.66, "adicional": 21.43 },
+    { "ate": 5547.00, "taxa": 0.3969, "parcelaFixa": 531.62, "adicional": 21.43 },
+    { "ate": 20221.00, "taxa": 0.4495, "parcelaFixa": 823.40, "adicional": 21.43 },
+    { "ate": null, "taxa": 0.4717, "parcelaFixa": 1272.31, "adicional": 21.43 }
+  ],
+  "tabelaII": [
+    { "ate": 920.00, "taxa": 0.0000, "parcelaFixa": 0, "adicional": 0 },
+    { "ate": 1042.00, "taxa": 0.1250, "formula": { "fator": 2.60, "referencia": 1273.85 }, "adicional": 34.29 },
+    { "ate": 1108.00, "taxa": 0.1570, "formula": { "fator": 1.35, "referencia": 1554.83 }, "adicional": 34.29 },
+    { "ate": 1154.00, "taxa": 0.1570, "parcelaFixa": 94.71, "adicional": 34.29 },
+    { "ate": 1212.00, "taxa": 0.2120, "parcelaFixa": 158.18, "adicional": 34.29 },
+    { "ate": 1819.00, "taxa": 0.2410, "parcelaFixa": 193.33, "adicional": 34.29 },
+    { "ate": 2119.00, "taxa": 0.3110, "parcelaFixa": 320.66, "adicional": 34.29 },
+    { "ate": 2499.00, "taxa": 0.3490, "parcelaFixa": 401.19, "adicional": 34.29 },
+    { "ate": 3305.00, "taxa": 0.3836, "parcelaFixa": 487.66, "adicional": 34.29 },
+    { "ate": 5547.00, "taxa": 0.3969, "parcelaFixa": 531.62, "adicional": 34.29 },
+    { "ate": 20221.00, "taxa": 0.4495, "parcelaFixa": 823.40, "adicional": 34.29 },
+    { "ate": null, "taxa": 0.4717, "parcelaFixa": 1272.31, "adicional": 34.29 }
+  ],
+  "tabelaIII": [
+    { "ate": 991.00, "taxa": 0.0000, "parcelaFixa": 0, "adicional": 0 },
+    { "ate": 1042.00, "taxa": 0.1250, "formula": { "fator": 2.6, "referencia": 1372.15 }, "adicional": 42.86 },
+    { "ate": 1108.00, "taxa": 0.1250, "formula": { "fator": 1.35, "referencia": 1677.85 }, "adicional": 42.86 },
+    { "ate": 1119.00, "taxa": 0.1250, "parcelaFixa": 96.17, "adicional": 42.86 },
+    { "ate": 1432.00, "taxa": 0.1272, "parcelaFixa": 98.64, "adicional": 42.86 },
+    { "ate": 1962.00, "taxa": 0.1570, "parcelaFixa": 141.32, "adicional": 42.86 },
+    { "ate": 2240.00, "taxa": 0.1938, "parcelaFixa": 213.53, "adicional": 42.86 },
+    { "ate": 2773.00, "taxa": 0.2277, "parcelaFixa": 289.47, "adicional": 42.86 },
+    { "ate": 3389.00, "taxa": 0.2570, "parcelaFixa": 370.72, "adicional": 42.86 },
+    { "ate": 5965.00, "taxa": 0.2881, "parcelaFixa": 476.12, "adicional": 42.86 },
+    { "ate": 20265.00, "taxa": 0.3843, "parcelaFixa": 1049.96, "adicional": 42.86 },
+    { "ate": null, "taxa": 0.4717, "parcelaFixa": 2821.13, "adicional": 42.86 }
+  ]
+}
