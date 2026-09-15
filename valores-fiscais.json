@@ -4,6 +4,17 @@
   "fonte": "Despacho n.º 233-A/2026, de 6 de janeiro (Diário da República, 2.ª série) — tabelas de retenção na fonte de IRS para 2026, Continente",
   "smn": 920.00,
   "subsidioIsento": { "transferencia": 6.00, "cartao": 10.50 },
+  "contactosACT": {
+    "atualizadoEm": "2026-09-15",
+    "fonte": "gov.pt (página da entidade Autoridade para as Condições do Trabalho) e act.gov.pt (Linha de Apoio)",
+    "entidade": "Autoridade para as Condições do Trabalho (ACT)",
+    "linhaApoio": { "numero": "300 069 300", "horario": "dias úteis, 9h00–12h30" },
+    "telefoneGeral": "21 330 87 00",
+    "email": "geral@act.gov.pt",
+    "morada": "Praça de Alvalade 1, 1749-073 Lisboa",
+    "site": "https://www.act.gov.pt",
+    "siteContactos": "https://portal.act.gov.pt/Pages/Contactos.aspx"
+  },
   "tabelaI": [
     { "ate": 920.00, "taxa": 0.0000, "parcelaFixa": 0, "adicional": 0 },
     { "ate": 1042.00, "taxa": 0.1250, "formula": { "fator": 2.60, "referencia": 1273.85 }, "adicional": 21.43 },
