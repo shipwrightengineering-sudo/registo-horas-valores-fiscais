@@ -8,6 +8,7 @@ Fonte de dados usada pela app "Registo de Horas & Vencimento" para o salário m�
    - `atualizadoEm`: data da publicação (AAAA-MM-DD)
    - `fonte`: referência do despacho/diploma
    - `smn`: novo salário mínimo nacional
+   - `subsidioIsento.transferencia` / `subsidioIsento.cartao`: limite diário de isenção do subsídio de alimentação (transferência bancária / cartão refeição)
    - `tabelaI` / `tabelaII` / `tabelaIII`: um item por escalão, na ordem do despacho
      - `ate`: limite superior da remuneração mensal do escalão (`null` no último escalão, sem limite)
      - `taxa`: taxa marginal de retenção

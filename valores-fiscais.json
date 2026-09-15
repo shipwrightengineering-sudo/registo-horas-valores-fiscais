@@ -3,6 +3,7 @@
   "atualizadoEm": "2026-01-06",
   "fonte": "Despacho n.º 233-A/2026, de 6 de janeiro (Diário da República, 2.ª série) — tabelas de retenção na fonte de IRS para 2026, Continente",
   "smn": 920.00,
+  "subsidioIsento": { "transferencia": 6.00, "cartao": 10.50 },
   "tabelaI": [
     { "ate": 920.00, "taxa": 0.0000, "parcelaFixa": 0, "adicional": 0 },
     { "ate": 1042.00, "taxa": 0.1250, "formula": { "fator": 2.60, "referencia": 1273.85 }, "adicional": 21.43 },
